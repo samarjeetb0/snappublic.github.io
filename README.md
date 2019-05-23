@@ -1,0 +1,2 @@
+# snappublic
+angularapp
